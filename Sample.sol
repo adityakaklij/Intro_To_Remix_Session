@@ -9,6 +9,7 @@ contract Sample {
 
     uint public num = 10;
     string public data = "This is String";
+    bool trueOrFalse = true;
     address public user;
 
     //Array
